@@ -1,0 +1,14 @@
+{
+    "rom": "BRIX",
+    "actions": [4, 6],
+    "variables": {
+        "score": {
+            "type": "mem_bcd",
+            "index": 788
+        },
+        "balls_remaining": {
+            "type": "register",
+            "index": 14
+        }
+    }
+}
